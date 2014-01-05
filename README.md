@@ -1,5 +1,5 @@
-Cellular-Automata
-=================
+Cellular-Automata v0.1
+======================
 
 LWJGL Based Life-Like Cellular Automata
 
@@ -30,3 +30,6 @@ Automata
     0     - Replicator
     
     
+## Runnable JARs
+
+* Mac OSX: https://github.com/spiralout/Cellular-Automata/releases/download/0.1/cellular-automata-macosx.jar
