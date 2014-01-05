@@ -7,10 +7,10 @@ LWJGL Based Life-Like Cellular Automata
 
 Commands
 
-    ESC   - Quit
-    F     - Toggle full screen
-    C     - Toggle color cycling
-    T     - Toggle trails
+    ESC   - quit
+    F     - toggle full screen
+    C     - toggle color cycling
+    T     - toggle trails
     R     - clear and randomize cells
     SPACE - pause simulation
     -     - decrease cell size
@@ -30,7 +30,7 @@ Automata
     0     - Replicator
     
     
-## Runnable JARs
+## Runnable Jars
 
 * Mac OSX: https://github.com/spiralout/Cellular-Automata/releases/download/0.1/cellular-automata-macosx.jar
 * Windows: https://github.com/spiralout/Cellular-Automata/releases/download/0.1/cellular-automata-windows.jar
