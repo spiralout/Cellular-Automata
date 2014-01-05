@@ -33,3 +33,4 @@ Automata
 ## Runnable JARs
 
 * Mac OSX: https://github.com/spiralout/Cellular-Automata/releases/download/0.1/cellular-automata-macosx.jar
+* Windows: https://github.com/spiralout/Cellular-Automata/releases/download/0.1/cellular-automata-windows.jar
